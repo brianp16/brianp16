@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brianp16
+- 👋 Hi, I’m brian
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on web/app designs
